@@ -1,0 +1,16 @@
+{
+  "name": "livecoding-performance-tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarajedeIdeas/LiveCoding-Performance-tests.git"
+  },
+  "author": "Félix Blanco",
+  "license": "ISC",
+  "homepage": "https://github.com/GarajedeIdeas/LiveCoding-Performance-tests#readme",
+  "dependencies": {
+    "k6": "^0.0.0"
+  }
+}
